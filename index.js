@@ -167,7 +167,7 @@ function CheckIdxIsSide(x, y){
 
 const SCREEN_WIDTH = 600;
 const SCREEN_HEIGHT = 600;
-const N = 10;
+const N = 5;
 document.addEventListener('click', printMousePos, true);
 let canvas = document.getElementById("gameScreen");
 let c = canvas.getContext("2d");
